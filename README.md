@@ -75,7 +75,7 @@ Exit:
     ```bash
     git clone https://github.com/<your-github-username>/<your-repository-name>.git
     ```
-2. Open the `.circ` files in Logisim-Evolution.
+2. Open the `riscv_monocycle TD3.circ` files in Logisim-Evolution.
 3. Run the simulation in Logisim-Evolution to verify the processor's behavior for various instructions.
 
 ### Tools Used

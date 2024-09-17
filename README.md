@@ -3,9 +3,6 @@
 
 This project is a simple implementation of a RISC-V processor using the Logisim-Evolution software. The design was developed as part of the coursework for the "Architecture des Processeurs" module. It consists of three main stages, each corresponding to different design tasks and functionalities, which were progressively implemented during the lab sessions.
 
-## Authors
-- Ismail EL BATTAHI
-- Gevorg ISHKHANYAN
 
 ## Project Overview
 
@@ -91,8 +88,3 @@ Exit:
 - Add support for more complex instructions (e.g., multiplication, division).
 - Optimize the control path to handle more instruction types.
 - Integrate a more complex memory management unit.
-
----
-
-This project is a great starting point for further exploration of RISC-V architecture and processor design. Feel free to clone, modify, and experiment with the design.
-
